@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Kemy.AbotCore": "0.1.9-alpha1",
+    "NETStandard.Library": "1.6.0"
+  },
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": [ "dnxcore50", "portable-net45+win8" ]
+    }
+  }
+}
